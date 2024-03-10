@@ -22,7 +22,7 @@ Estou desenvolvendo conhecimentos em:
 <a href="https://www.instagram.com/gustavo_verdum/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left" width="70px" alt="logo-instagram">  
 </a>
-<a href="www.linkedin.com/in/gustavo-verdun">
+<a href="https://www.linkedin.com/in/gustavo-verdun/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left" width="70px" alt="logo-linkedin">  
 </a>
 </p>
