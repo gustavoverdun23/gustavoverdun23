@@ -29,6 +29,11 @@ Estou desenvolvendo conhecimentos em:
 <br>
 <br>
 
+Quero aprender também as tecnologias como:
+<br>
+<img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/nodejs-logo-adesivo-sticker.png" alt="logo-node" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="logo-typescript" width="25px">
+
 
 [![Gustavo stats](https://github-readme-stats.vercel.app/api?username=gustavoverdun23)](https://github.com/anuraghazra/github-readme-stats)
 
