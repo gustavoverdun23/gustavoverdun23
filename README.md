@@ -14,7 +14,7 @@ Estou desenvolvendo conhecimentos em:
 :point_down: Aqui estão duas formas de você me perguntar algo:
 
 
-- 💬 Pergunte-me sobre [here](www.linkedin.com/in/gustavo-verdun)
+- 💬 Pergunte-me sobre [here](https://www.linkedin.com/in/gustavo-verdun/)
 - 📫 Como entrar em contato comigo: [@gustavo_verdum](https://www.instagram.com/gustavo_verdum/)
 
 ### Conecte-se comigo:
